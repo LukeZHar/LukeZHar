@@ -26,7 +26,7 @@ Throughout my previous roles in hospitality, including positions as a Head Chef 
 I welcome opportunities for collaboration, networking, or mentorship within the tech community! Feel free to explore my projects and reach out if you’d like to connect.
 - Email: luke.z.harris@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/luke-harris-750b24247/
-- Facebook: facebook.com/profile.php?id=100008874826531 
+- Facebook: www.facebook.com/profile.php?id=100008874826531/ 
 
 
 ⚡ Fun fact: I have way to many pop vinyls and legos in my collection 
