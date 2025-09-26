@@ -2,7 +2,7 @@
 LukeZHar/LukeZHar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWl5bXUwZnJ3NzcydnR6anFpN3l0Nm9rMXExcHFya2R6ZGZiNmRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif" height="100" width="100" />
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2swZzZxYm05M2dhM2lxcGhjeWs3ZnNnb3dudzF1eDg1bXZranUzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3owyplYLWlGFQk9mF2/giphy.gif" height="100" width="100" />
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi , I'm Luke</h1> 
 <h3 align="center">I'm an aspiring Full Stack Developer transitioning from the culinary and hospitality industry. My background in team leadership, problem-solving, and organization now fuels my passion for web development.</h3>
 
@@ -41,10 +41,10 @@ You can click the Preview link to take a look at your changes.
   <h3>Backend Development</h3>
   <img src="https://skillicons.dev/icons?i=express,flask,nodejs" />
 
-  <h3>Framework/Meta-frameworks</h3>
+  <h3>Framework</h3>
   <img src="https://skillicons.dev/icons?i=nextjs" />
 
-  <h3>Databses</h3>
+  <h3>Databases</h3>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 
   <h3>Testing</h3>
